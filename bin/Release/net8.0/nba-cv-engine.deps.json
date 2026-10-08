@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nba-cv-engine/0.1.0": {
+        "runtime": {
+          "nba-cv-engine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nba-cv-engine/0.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

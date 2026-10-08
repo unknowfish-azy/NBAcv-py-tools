@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\outputs\\nba-cv-engine\\nba-cv-engine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\outputs\\nba-cv-engine\\nba-cv-engine.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\outputs\\nba-cv-engine\\nba-cv-engine.csproj",
+        "projectName": "nba-cv-engine",
+        "projectPath": "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\outputs\\nba-cv-engine\\nba-cv-engine.csproj",
+        "packagesPath": "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\work\\dotnet-home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\outputs\\nba-cv-engine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\outputs\\nba-cv-engine\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\33908\\Documents\\Codex\\2026-10-08\\using-the-aws-cli-two-profiles-2\\work\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

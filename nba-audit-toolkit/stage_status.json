@@ -1,0 +1,17 @@
+{
+  "tool_run": "COMPLETE_WITH_FINDINGS",
+  "data_quality": "FAIL",
+  "review_queue": 600,
+  "review_gate": "PASS",
+  "human_review": "PENDING",
+  "engineering_smoke": "PASS",
+  "model_quality": "NOT_RUN",
+  "cloud": "NOT_RUN_SSO_TIMEOUT",
+  "GLM": "MODEL_UNAVAILABLE",
+  "full_dataset_epoch_estimate": null,
+  "notes": [
+    "File metadata inventory is not a full content checksum audit",
+    "Known heldout path names excluded; authoritative global split mapping still required",
+    "Review candidates are raw LabelMe-linked images; no labels fabricated"
+  ]
+}

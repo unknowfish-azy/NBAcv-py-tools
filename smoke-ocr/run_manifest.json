@@ -1,0 +1,27 @@
+{
+  "video": "E:\\NBA_CCTV_1080P\\2026-02-01_独行侠vs火箭_CCTV_1080P\\2026-02-01_独行侠vs火箭_CCTV_1080P.mp4",
+  "model": "E:\\NBA_Dataset_20261008\\models\\players_v25i_v1\\best.pt",
+  "model_sha256": "a07dca60d11bec16254fd20a6ff570d7569e54f72041a87d78a1c9e85b7d25d2",
+  "video_stat": {
+    "size": 2026228950,
+    "mtime_ns": 1790957361288088200
+  },
+  "video_sha256": null,
+  "frames": 6,
+  "detections": 43,
+  "elapsed_s": 2.5586233000067296,
+  "sample_fps": 2.0,
+  "start": 3300.0,
+  "width": 960,
+  "height": 540,
+  "ocr_enabled": true,
+  "status": "ENGINEERING_ONLY",
+  "accuracy": "NOT_EVALUATED",
+  "ffmpeg_exit": 0,
+  "notes": [
+    "color/body proportions are uncalibrated proxies",
+    "not detecting faces or true height",
+    "shot cut threshold is heuristic",
+    "missing player is not confirmed off court"
+  ]
+}

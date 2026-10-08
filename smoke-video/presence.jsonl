@@ -1,0 +1,4 @@
+{"timestamp_s": 0.0, "shot_id": 0, "visible_tracks": [2, 3, 4, 5, 6, 9], "absence_semantics": "off_screen_or_occluded; no substitution evidence"}
+{"timestamp_s": 0.5, "shot_id": 0, "visible_tracks": [2, 3, 4, 5, 6, 9], "absence_semantics": "off_screen_or_occluded; no substitution evidence"}
+{"timestamp_s": 1.0, "shot_id": 0, "visible_tracks": [2, 3, 4, 6, 9], "absence_semantics": "off_screen_or_occluded; no substitution evidence"}
+{"timestamp_s": 1.5, "shot_id": 0, "visible_tracks": [2, 3, 4, 6, 7, 9, 15], "absence_semantics": "off_screen_or_occluded; no substitution evidence"}

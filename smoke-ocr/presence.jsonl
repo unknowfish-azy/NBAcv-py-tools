@@ -1,0 +1,6 @@
+{"timestamp_s": 3300.0, "shot_id": 0, "visible_tracks": [3, 4, 5, 6, 7, 9, 11, 12, 13, 14, 15], "players": [], "absence_semantics": "off_screen_or_occluded; no substitution evidence unless supplied"}
+{"timestamp_s": 3300.5, "shot_id": 0, "visible_tracks": [3, 4, 6, 7, 12, 13, 14], "players": [], "absence_semantics": "off_screen_or_occluded; no substitution evidence unless supplied"}
+{"timestamp_s": 3301.0, "shot_id": 0, "visible_tracks": [4, 7, 13, 26, 27], "players": [], "absence_semantics": "off_screen_or_occluded; no substitution evidence unless supplied"}
+{"timestamp_s": 3301.5, "shot_id": 0, "visible_tracks": [4, 7, 26, 27, 33, 5], "players": [], "absence_semantics": "off_screen_or_occluded; no substitution evidence unless supplied"}
+{"timestamp_s": 3302.0, "shot_id": 0, "visible_tracks": [4, 7, 27, 33, 40, 5], "players": [], "absence_semantics": "off_screen_or_occluded; no substitution evidence unless supplied"}
+{"timestamp_s": 3302.5, "shot_id": 0, "visible_tracks": [7, 33, 40, 48, 49, 51, 52, 26], "players": [], "absence_semantics": "off_screen_or_occluded; no substitution evidence unless supplied"}
